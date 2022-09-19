@@ -1,1 +1,0 @@
-# SQLite-request-in-Python
